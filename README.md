@@ -1,5 +1,7 @@
 # Spotify_Song_Recommedation-VectorDB-
 A content-based music recommendation system using Spotify audio features and FAISS vector database to recommend top n similar songs.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4db33557-5bd1-43c8-8ebe-1b1c5d458f31" />
+
  
 #  Spotify Song Recommendation System using FAISS
 
