@@ -1,0 +1,6 @@
+Python
+Pandas & NumPy – Data processing
+Scikit-learn – Feature scaling
+FAISS (Facebook AI Similarity Search) – Vector database
+Jupyter Notebook
+Generative ai(Gemini flash 2.0)
